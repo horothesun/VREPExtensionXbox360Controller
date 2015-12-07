@@ -1,0 +1,5 @@
+*.tlog
+*.idb
+*.ipdb
+*.exp
+*.iobj
